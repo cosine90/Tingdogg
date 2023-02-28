@@ -1,0 +1,201 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+#title {
+    background-color: #ff4c68;
+
+    
+}
+
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+
+
+    font-size: 3.5rem;
+    line-height: 1.5;
+
+}
+.hed2{
+    font-family: 'Montserrat';
+    font-size: 3rem;
+    font-weight: 700;
+    line-height: 1.5;
+
+}
+
+.heading {
+    color: white;
+    font-weight: 900;
+}
+
+.download-btn {
+    margin: 5% 3% 5% 0%;
+
+
+}
+
+.title-img {
+    
+
+    transform: rotate(25deg);
+    position: absolute;
+    margin: 0% 30% ;
+    
+    
+    
+
+}
+.img{
+    width: 50%;
+}
+@media (max-width:1028px) {
+    .title-img{
+        position: static;
+        transform: rotate(0);
+        margin-right: 60%;
+    }
+}
+
+
+.navbar {
+    padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+    font-family: Ubuntu;
+    font-weight: bold;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: 'ubuntu';
+
+}
+
+.mid {
+    margin: 5% 3% 5% 0%;
+
+}
+
+.hed {
+    font-family: Montserrat;
+    font-size: 1.5rem;
+    font-weight: bold;
+
+
+
+}
+#features{
+    padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
+
+    z-index: 1;
+}
+
+.feature-box {
+    text-align: center;
+
+}
+
+
+.para {
+
+    color: #bfbfbf;
+    padding: 0% 10%;
+}
+
+.bulls {
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+.bulls:hover {
+    color: #ff4c68;
+}
+#testimonials{
+    
+    background-color: #ef8172;
+    text-align: center;
+    color: #fff;
+    
+}
+.carousel-item{ padding: 7% 15%;}
+.testimonial-image{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+#press{
+    background-color: #ef8172;
+    padding-bottom: 3%;
+    text-align: center;
+}
+.press-logo{
+    width: 15%;
+}
+.prev{
+    
+    margin-bottom: 70%;
+}
+
+.next{
+    
+    margin-bottom: 70%;
+
+}
+
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+.pricing-colmn{
+    padding: 3% 2%;
+}
+#cta{
+    background-color: #ff4c68;
+    height: 420px;
+    text-align: center;
+    padding: 7% 15%;
+
+}
+.hed-cta{
+    color: #fff;
+    font-family: montserrat;
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+#footer{
+    height: 200px;
+    text-align: center;
+}
+.footer-icon{
+    color: black;
+    padding: 1% ;
+    
+    
+}
+.icons{
+    margin :5% 0% 3%;
+}
+.footer-icon:hover{
+    color: #ff4c68;
+}
+::-webkit-scrollbar{
+    width: 10px;
+}
+ ::-webkit-scrollbar-track {
+    background-color: #f1f1f1;
+ } 
+ ::-webkit-scrollbar-thumb{
+    background-color: #888;
+ }  
+ ::-webkit-scrollbar-thumb:hover{
+    background-color: #555;
+ }
+    
