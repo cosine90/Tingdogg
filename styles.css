@@ -44,7 +44,7 @@ h1 {
 
     transform: rotate(25deg);
     position: absolute;
-    margin: 0% 30% ;
+    left: 50%;
     
     
     
@@ -57,7 +57,7 @@ h1 {
     .title-img{
         position: static;
         transform: rotate(0);
-        margin-right: 60%;
+       
     }
 }
 
